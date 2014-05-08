@@ -1,0 +1,141 @@
+  8,16   0        1     0.000000000  1776  Q  WS 196608 + 8 [kjournald]
+  8,16   0        2     0.000038497  1776  G  WS 196608 + 8 [kjournald]
+  8,16   0        3     0.000040418  1776  P   N [kjournald]
+  8,16   0        4     0.000074342  1776  Q  WS 196616 + 8 [kjournald]
+  8,16   0        5     0.000107139  1776  M  WS 196616 + 8 [kjournald]
+  8,16   0        6     0.000139864  1776  Q  WS 196624 + 8 [kjournald]
+  8,16   0        7     0.000171004  1776  M  WS 196624 + 8 [kjournald]
+  8,16   0        8     0.000203763  1776  Q  WS 196632 + 8 [kjournald]
+  8,16   0        9     0.000234723  1776  M  WS 196632 + 8 [kjournald]
+  8,16   0       10     0.000266561  1776  Q  WS 196640 + 8 [kjournald]
+  8,16   0       11     0.000297502  1776  M  WS 196640 + 8 [kjournald]
+  8,16   0       12     0.000329247  1776  Q  WS 196648 + 8 [kjournald]
+  8,16   0       13     0.000360184  1776  M  WS 196648 + 8 [kjournald]
+  8,16   0       14     0.000392504  1776  Q  WS 196656 + 8 [kjournald]
+  8,16   0       15     0.000423842  1776  M  WS 196656 + 8 [kjournald]
+  8,16   0       16     0.000455517  1776  Q  WS 196664 + 8 [kjournald]
+  8,16   0       17     0.000486501  1776  M  WS 196664 + 8 [kjournald]
+  8,16   0       18     0.000518099  1776  Q  WS 196672 + 8 [kjournald]
+  8,16   0       19     0.000549063  1776  M  WS 196672 + 8 [kjournald]
+  8,16   0       20     0.000582068  1776  Q  WS 196680 + 8 [kjournald]
+  8,16   0       21     0.000613175  1776  M  WS 196680 + 8 [kjournald]
+  8,16   0       22     0.000645205  1776  Q  WS 196688 + 8 [kjournald]
+  8,16   0       23     0.000676148  1776  M  WS 196688 + 8 [kjournald]
+  8,16   0       24     0.000707713  1776  Q  WS 196696 + 8 [kjournald]
+  8,16   0       25     0.000738827  1776  M  WS 196696 + 8 [kjournald]
+  8,16   0       26     0.000770522  1776  Q  WS 196712 + 8 [kjournald]
+  8,16   0       27     0.000802221  1776  G  WS 196712 + 8 [kjournald]
+  8,16   0       28     0.000834478  1776  Q  WS 196720 + 8 [kjournald]
+  8,16   0       29     0.000865461  1776  M  WS 196720 + 8 [kjournald]
+  8,16   0       30     0.000896979  1776  Q  WS 196728 + 8 [kjournald]
+  8,16   0       31     0.000927857  1776  M  WS 196728 + 8 [kjournald]
+  8,16   0       32     0.000959498  1776  Q  WS 196736 + 8 [kjournald]
+  8,16   0       33     0.000990445  1776  M  WS 196736 + 8 [kjournald]
+  8,16   0       34     0.001022307  1776  Q  WS 196744 + 8 [kjournald]
+  8,16   0       35     0.001053264  1776  M  WS 196744 + 8 [kjournald]
+  8,16   0       36     0.001084676  1776  Q  WS 196752 + 8 [kjournald]
+  8,16   0       37     0.001115566  1776  M  WS 196752 + 8 [kjournald]
+  8,16   0       38     0.001158493  1776  Q  WS 196760 + 8 [kjournald]
+  8,16   0       39     0.001198792  1776  M  WS 196760 + 8 [kjournald]
+  8,16   0       40     0.001242664  1776  Q  WS 196768 + 8 [kjournald]
+  8,16   0       41     0.001286624  1776  M  WS 196768 + 8 [kjournald]
+  8,16   0       42     0.001329351  1776  Q  WS 196776 + 8 [kjournald]
+  8,16   0       43     0.001365546  1776  M  WS 196776 + 8 [kjournald]
+  8,16   0       44     0.001404104  1776  Q  WS 196784 + 8 [kjournald]
+  8,16   0       45     0.001453917  1776  M  WS 196784 + 8 [kjournald]
+  8,16   0       46     0.001506373  1776  Q  WS 196792 + 8 [kjournald]
+  8,16   0       47     0.001552568  1776  M  WS 196792 + 8 [kjournald]
+  8,16   0       48     0.001588065  1776  Q  WS 196800 + 8 [kjournald]
+  8,16   0       49     0.001668544  1776  M  WS 196800 + 8 [kjournald]
+  8,16   0       50     0.001704666  1776  Q  WS 196808 + 8 [kjournald]
+  8,16   0       51     0.001735937  1776  M  WS 196808 + 8 [kjournald]
+  8,16   0       52     0.001737942  1776  I  WS 196608 + 96 [kjournald]
+  8,16   0       53     0.001739960  1776  I  WS 196712 + 104 [kjournald]
+  8,16   0       54     0.001741186  1776  U   N [kjournald] 2
+  8,16   0       55     0.001745135  1776  D  WS 196608 + 96 [kjournald]
+  8,16   0       56     0.002036146  1776  D  WS 196712 + 104 [kjournald]
+  8,16   0       57     0.295234759     0  C  WS 196608 + 96 [0]
+  8,16   0       58     0.298712375     0  C  WS 196712 + 104 [0]
+  8,16   0       59     0.298907859  1776  Q  WS 104599904 + 8 [kjournald]
+  8,16   0       60     0.298945952  1776  G  WS 104599904 + 8 [kjournald]
+  8,16   0       61     0.298947729  1776  P   N [kjournald]
+  8,16   0       62     0.298982225  1776  Q  WS 104599912 + 8 [kjournald]
+  8,16   0       63     0.299015155  1776  M  WS 104599912 + 8 [kjournald]
+  8,16   0       64     0.299049213  1776  Q  WS 104599920 + 8 [kjournald]
+  8,16   0       65     0.299080628  1776  M  WS 104599920 + 8 [kjournald]
+  8,16   0       66     0.299112721  1776  Q  WS 104599928 + 8 [kjournald]
+  8,16   0       67     0.299143948  1776  M  WS 104599928 + 8 [kjournald]
+  8,16   0       68     0.299175874  1776  Q  WS 104599936 + 8 [kjournald]
+  8,16   0       69     0.299206951  1776  M  WS 104599936 + 8 [kjournald]
+  8,16   0       70     0.299238657  1776  Q  WS 104599944 + 8 [kjournald]
+  8,16   0       71     0.299269838  1776  M  WS 104599944 + 8 [kjournald]
+  8,16   0       72     0.299302361  1776  Q  WS 104599952 + 8 [kjournald]
+  8,16   0       73     0.299333689  1776  M  WS 104599952 + 8 [kjournald]
+  8,16   0       74     0.299335179  1776  I  WS 104599904 + 56 [kjournald]
+  8,16   0       75     0.299336712  1776  U   N [kjournald] 1
+  8,16   0       76     0.299338887  1776  D  WS 104599904 + 56 [kjournald]
+  8,16   0       77     0.301641757     0  C  WS 104599904 + 56 [0]
+  8,16   0       78     0.301777728  1776  Q  WS 104599960 + 8 [kjournald]
+  8,16   0       79     0.301813379  1776  G  WS 104599960 + 8 [kjournald]
+  8,16   0       80     0.301815497  1776  I  WS 104599960 + 8 [kjournald]
+  8,16   0       81     0.301817224  1776  D  WS 104599960 + 8 [kjournald]
+  8,16   0       82     0.302948209     0  C  WS 104599960 + 8 [0]
+  8,16   1        1    31.943974511  2574  Q   W 8 + 8 [flush-8:16]
+  8,16   1        2    31.944013657  2574  G   W 8 + 8 [flush-8:16]
+  8,16   1        3    31.944015484  2574  P   N [flush-8:16]
+  8,16   1        4    31.944051476  2574  Q   W 8200 + 8 [flush-8:16]
+  8,16   1        5    31.944083395  2574  G   W 8200 + 8 [flush-8:16]
+  8,16   1        6    31.944116838  2574  Q   W 8208 + 8 [flush-8:16]
+  8,16   1        7    31.944148760  2574  M   W 8208 + 8 [flush-8:16]
+  8,16   1        8    31.944182413  2574  Q   W 8216 + 8 [flush-8:16]
+  8,16   1        9    31.944213484  2574  M   W 8216 + 8 [flush-8:16]
+  8,16   1       10    31.944246416  2574  Q   W 12312 + 8 [flush-8:16]
+  8,16   1       11    31.944278067  2574  G   W 12312 + 8 [flush-8:16]
+  8,16   1       12    31.944312415  2574  Q   W 196704 + 8 [flush-8:16]
+  8,16   1       13    31.944344104  2574  G   W 196704 + 8 [flush-8:16]
+  8,16   1       14    31.944347726  2574  I   W 8 + 8 [flush-8:16]
+  8,16   1       15    31.944348698  2574  I   W 8200 + 24 [flush-8:16]
+  8,16   1       16    31.944349510  2574  I   W 12312 + 8 [flush-8:16]
+  8,16   1       17    31.944349937  2574  I   W 196704 + 8 [flush-8:16]
+  8,16   1       18    31.944350866  2574  U   N [flush-8:16] 4
+  8,16   1       19    31.944354126  2574  D   W 8 + 8 [flush-8:16]
+  8,16   1       20    31.944649226  2574  D   W 8200 + 24 [flush-8:16]
+  8,16   1       21    32.234625407     0  C   W 8 + 8 [0]
+  8,16   1       22    32.234909773     0  D   W 12312 + 8 [swapper/0]
+  8,16   1       23    32.236048010     0  C   W 8200 + 24 [0]
+  8,16   1       24    32.236245392     0  D   W 196704 + 8 [swapper/0]
+  8,16   1       25    32.237025006     0  C   W 12312 + 8 [0]
+  8,16   1       26    32.238044112     0  C   W 196704 + 8 [0]
+CPU0 (traceoutput_guest21):
+ Reads Queued:           0,        0KiB	 Writes Queued:          33,      132KiB
+ Read Dispatches:        0,        0KiB	 Write Dispatches:        4,      132KiB
+ Reads Requeued:         0		 Writes Requeued:         0
+ Reads Completed:        0,        0KiB	 Writes Completed:        4,      132KiB
+ Read Merges:            0,        0KiB	 Write Merges:           29,      116KiB
+ Start Timestamp:     1399585027.335923815 
+ Read depth:             0        	 Write depth:             2
+ IO unplugs:             2        	 Timer unplugs:           0
+CPU1 (traceoutput_guest21):
+ Reads Queued:           0,        0KiB	 Writes Queued:           6,       24KiB
+ Read Dispatches:        0,        0KiB	 Write Dispatches:        4,       24KiB
+ Reads Requeued:         0		 Writes Requeued:         0
+ Reads Completed:        0,        0KiB	 Writes Completed:        4,       24KiB
+ Read Merges:            0,        0KiB	 Write Merges:            2,        8KiB
+ Start Timestamp:     1399585027.335923815 
+ Read depth:             0        	 Write depth:             2
+ IO unplugs:             1        	 Timer unplugs:           0
+
+Total (traceoutput_guest21):
+ Reads Queued:           0,        0KiB	 Writes Queued:          39,      156KiB
+ Read Dispatches:        0,        0KiB	 Write Dispatches:        8,      156KiB
+ Reads Requeued:         0		 Writes Requeued:         0
+ Reads Completed:        0,        0KiB	 Writes Completed:        8,      156KiB
+ Read Merges:            0,        0KiB	 Write Merges:           31,      124KiB
+ Start Timestamp:     1399585027.335923815 
+ IO unplugs:             3        	 Timer unplugs:           0
+
+Throughput (R/W): 0KiB/s / 4KiB/s
+Events (traceoutput_guest21): 108 entries
+Skips: 0 forward (0 -   0.0%)
+Input file traceoutput_guest21.blktrace.0 added
+Input file traceoutput_guest21.blktrace.1 added
