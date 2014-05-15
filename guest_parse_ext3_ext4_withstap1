@@ -1,0 +1,93 @@
+  8,16   1        1     0.000000000  1888  Q   W 270744 + 400 [flush-8:16]
+  8,16   1        2     0.001429756  1888  G   W 270744 + 400 [flush-8:16]
+  8,16   1        3     0.001432532  1888  P   N [flush-8:16]
+  8,16   1        4     0.001487419  1888  I   W 270744 + 400 [flush-8:16]
+  8,16   1        5     0.001489063  1888  U   N [flush-8:16] 1
+  8,16   1        6     0.001492177  1888  D   W 270744 + 400 [flush-8:16]
+  8,16   0        1     0.001636774  1880  Q  WS 105119776 + 8 [jbd2/sdb-8]
+  8,16   0        2     0.001677693  1880  G  WS 105119776 + 8 [jbd2/sdb-8]
+  8,16   0        3     0.001678682  1880  P   N [jbd2/sdb-8]
+  8,16   0        4     0.001716729  1880  Q  WS 105119784 + 8 [jbd2/sdb-8]
+  8,16   0        5     0.001755276  1880  M  WS 105119784 + 8 [jbd2/sdb-8]
+  8,16   0        6     0.001793576  1880  Q  WS 105119792 + 8 [jbd2/sdb-8]
+  8,16   0        7     0.001830730  1880  M  WS 105119792 + 8 [jbd2/sdb-8]
+  8,16   0        8     0.001869465  1880  Q  WS 105119800 + 8 [jbd2/sdb-8]
+  8,16   0        9     0.001905138  1880  M  WS 105119800 + 8 [jbd2/sdb-8]
+  8,16   0       10     0.001938949  1880  Q  WS 105119808 + 8 [jbd2/sdb-8]
+  8,16   0       11     0.001971048  1880  M  WS 105119808 + 8 [jbd2/sdb-8]
+  8,16   0       12     0.002004042  1880  Q  WS 105119816 + 8 [jbd2/sdb-8]
+  8,16   0       13     0.002036219  1880  M  WS 105119816 + 8 [jbd2/sdb-8]
+  8,16   0       14     0.002070069  1880  Q  WS 105119824 + 8 [jbd2/sdb-8]
+  8,16   0       15     0.002164730  1880  M  WS 105119824 + 8 [jbd2/sdb-8]
+  8,16   0       16     0.002183205  1880  I  WS 105119776 + 56 [jbd2/sdb-8]
+  8,16   0       17     0.002184027  1880  U   N [jbd2/sdb-8] 1
+  8,16   0       18     0.002185480  1880  D  WS 105119776 + 56 [jbd2/sdb-8]
+  8,16   1        7     0.013893976     0  C   W 270744 + 400 [0]
+  8,16   0       19     0.018419944     0  C  WS 105119776 + 56 [0]
+  8,16   0       20     0.018554884  1880  Q  WS 105119832 + 8 [jbd2/sdb-8]
+  8,16   0       21     0.018592880  1880  G  WS 105119832 + 8 [jbd2/sdb-8]
+  8,16   0       22     0.018594851  1880  I  WS 105119832 + 8 [jbd2/sdb-8]
+  8,16   0       23     0.018596902  1880  D  WS 105119832 + 8 [jbd2/sdb-8]
+  8,16   0       24     0.019841574     0  C  WS 105119832 + 8 [0]
+  8,16   0       25    30.022301412  1888  Q   W 8456 + 8 [flush-8:16]
+  8,16   0       26    30.022342615  1888  G   W 8456 + 8 [flush-8:16]
+  8,16   0       27    30.022344473  1888  P   N [flush-8:16]
+  8,16   0       28    30.022382002  1888  Q   W 8464 + 8 [flush-8:16]
+  8,16   0       29    30.022416132  1888  M   W 8464 + 8 [flush-8:16]
+  8,16   0       30    30.022452658  1888  Q   W 73992 + 8 [flush-8:16]
+  8,16   0       31    30.022485894  1888  G   W 73992 + 8 [flush-8:16]
+  8,16   0       32    30.022529743  1888  Q   W 8 + 8 [flush-8:16]
+  8,16   0       33    30.022562523  1888  G   W 8 + 8 [flush-8:16]
+  8,16   0       34    30.022597951  1888  Q   W 8208 + 8 [flush-8:16]
+  8,16   0       35    30.022631186  1888  G   W 8208 + 8 [flush-8:16]
+  8,16   0       36    30.022666870  1888  Q   W 8328 + 8 [flush-8:16]
+  8,16   0       37    30.022699895  1888  G   W 8328 + 8 [flush-8:16]
+  8,16   0       38    30.022701926  1888  I   W 8456 + 16 [flush-8:16]
+  8,16   0       39    30.022702768  1888  I   W 73992 + 8 [flush-8:16]
+  8,16   0       40    30.022703356  1888  I   W 8 + 8 [flush-8:16]
+  8,16   0       41    30.022703567  1888  I   W 8208 + 8 [flush-8:16]
+  8,16   0       42    30.022703904  1888  I   W 8328 + 8 [flush-8:16]
+  8,16   0       43    30.022705010  1888  U   N [flush-8:16] 5
+  8,16   0       44    30.022708107  1888  D   W 8456 + 16 [flush-8:16]
+  8,16   0       45    30.022984820  1888  D   W 73992 + 8 [flush-8:16]
+  8,16   0       46    30.307610660     0  C   W 8456 + 16 [0]
+  8,16   0       47    30.307896250     0  D   W 8 + 8 [swapper/0]
+  8,16   0       48    30.309016611     0  C   W 73992 + 8 [0]
+  8,16   0       49    30.309291159     0  D   W 8208 + 8 [swapper/0]
+  8,16   0       50    30.310160248     0  C   W 8 + 8 [0]
+  8,16   0       51    30.310385509     0  D   W 8328 + 8 [swapper/0]
+  8,16   0       52    30.311228197     0  C   W 8208 + 8 [0]
+  8,16   0       53    30.312276949     0  C   W 8328 + 8 [0]
+CPU0 (guest_trace_ext3_ext4_withstap1):
+ Reads Queued:           0,        0KiB	 Writes Queued:          14,       56KiB
+ Read Dispatches:        0,        0KiB	 Write Dispatches:        7,       56KiB
+ Reads Requeued:         0		 Writes Requeued:         0
+ Reads Completed:        0,        0KiB	 Writes Completed:        7,       56KiB
+ Read Merges:            0,        0KiB	 Write Merges:            7,       28KiB
+ Start Timestamp:     1400159835.526319451 
+ Read depth:             0        	 Write depth:             2
+ IO unplugs:             2        	 Timer unplugs:           0
+CPU1 (guest_trace_ext3_ext4_withstap1):
+ Reads Queued:           0,        0KiB	 Writes Queued:           1,      200KiB
+ Read Dispatches:        0,        0KiB	 Write Dispatches:        1,      200KiB
+ Reads Requeued:         0		 Writes Requeued:         0
+ Reads Completed:        0,        0KiB	 Writes Completed:        1,      200KiB
+ Read Merges:            0,        0KiB	 Write Merges:            0,        0KiB
+ Start Timestamp:     1400159835.526319451 
+ Read depth:             0        	 Write depth:             2
+ IO unplugs:             1        	 Timer unplugs:           0
+
+Total (guest_trace_ext3_ext4_withstap1):
+ Reads Queued:           0,        0KiB	 Writes Queued:          15,      256KiB
+ Read Dispatches:        0,        0KiB	 Write Dispatches:        8,      256KiB
+ Reads Requeued:         0		 Writes Requeued:         0
+ Reads Completed:        0,        0KiB	 Writes Completed:        8,      256KiB
+ Read Merges:            0,        0KiB	 Write Merges:            7,       28KiB
+ Start Timestamp:     1400159835.526319451 
+ IO unplugs:             3        	 Timer unplugs:           0
+
+Throughput (R/W): 0KiB/s / 8KiB/s
+Events (guest_trace_ext3_ext4_withstap1): 60 entries
+Skips: 0 forward (0 -   0.0%)
+Input file results/guest_trace_ext3_ext4_withstap1.blktrace.0 added
+Input file results/guest_trace_ext3_ext4_withstap1.blktrace.1 added
