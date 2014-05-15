@@ -2,6 +2,3 @@
 Throughput (R/W): 0KiB/s / 0KiB/s
 Events (seek_host_trace_ext3_ext4): 0 entries
 Skips: 0 forward (0 -   0.0%)
-Input file results/seek_host_trace_ext3_ext4.blktrace.0 added
-Input file results/seek_host_trace_ext3_ext4.blktrace.2 added
-Input file results/seek_host_trace_ext3_ext4.blktrace.3 added
