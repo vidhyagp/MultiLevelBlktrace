@@ -1,0 +1,176 @@
+  8,16   1        1     0.000000000  3051  A   R 670333920 + 8 <- (8,18) 669924280
+  8,18   1        2     0.000002161  3051  Q   R 670333920 + 8 [AioMgr0-N]
+  8,18   1        3     0.000013069  3051  G   R 670333920 + 8 [AioMgr0-N]
+  8,18   1        4     0.000014643  3051  P   N [AioMgr0-N]
+  8,18   1        5     0.000035125  3051  I   R 670333920 + 8 [AioMgr0-N]
+  8,18   1        6     0.000036683  3051  U   N [AioMgr0-N] 1
+  8,18   1        7     0.000039355  3051  D   R 670333920 + 8 [AioMgr0-N]
+  8,18   0        1     0.283498549     3  C   R 670333920 + 8 [0]
+  8,16   1        8     0.285387706  3051  A  WS 171035232 + 8 <- (8,18) 170625592
+  8,18   1        9     0.285389574  3051  Q  WS 171035232 + 8 [AioMgr0-N]
+  8,18   1       10     0.285399210  3051  G  WS 171035232 + 8 [AioMgr0-N]
+  8,18   1       11     0.285400657  3051  P   N [AioMgr0-N]
+  8,16   1       12     0.285412470  3051  A  WS 171069496 + 8 <- (8,18) 170659856
+  8,18   1       13     0.285412770  3051  Q  WS 171069496 + 8 [AioMgr0-N]
+  8,18   1       14     0.285417291  3051  G  WS 171069496 + 8 [AioMgr0-N]
+  8,16   1       15     0.285428605  3051  A  WS 670321512 + 32 <- (8,18) 669911872
+  8,18   1       16     0.285428903  3051  Q  WS 670321512 + 32 [AioMgr0-N]
+  8,18   1       17     0.285433261  3051  G  WS 670321512 + 32 [AioMgr0-N]
+  8,16   1       18     0.285443071  3051  A  WS 672162512 + 8 <- (8,18) 671752872
+  8,18   1       19     0.285443340  3051  Q  WS 672162512 + 8 [AioMgr0-N]
+  8,18   1       20     0.285447410  3051  G  WS 672162512 + 8 [AioMgr0-N]
+  8,16   1       21     0.285458063  3051  A  WS 672154600 + 96 <- (8,18) 671744960
+  8,18   1       22     0.285458332  3051  Q  WS 672154600 + 96 [AioMgr0-N]
+  8,18   1       23     0.285462424  3051  G  WS 672154600 + 96 [AioMgr0-N]
+  8,16   1       24     0.285475974  3051  A  WS 672154704 + 240 <- (8,18) 671745064
+  8,18   1       25     0.285476250  3051  Q  WS 672154704 + 240 [AioMgr0-N]
+  8,18   1       26     0.285480632  3051  G  WS 672154704 + 240 [AioMgr0-N]
+  8,16   1       27     0.285486393  3051  A  WS 672154944 + 64 <- (8,18) 671745304
+  8,18   1       28     0.285486629  3051  Q  WS 672154944 + 64 [AioMgr0-N]
+  8,18   1       29     0.285491027  3051  G  WS 672154944 + 64 [AioMgr0-N]
+  8,18   1       30     0.285492345  3051  I  WS 171035232 + 8 [AioMgr0-N]
+  8,18   1       31     0.285493171  3051  I  WS 171069496 + 8 [AioMgr0-N]
+  8,18   1       32     0.285493944  3051  I  WS 670321512 + 32 [AioMgr0-N]
+  8,18   1       33     0.285494376  3051  I  WS 672162512 + 8 [AioMgr0-N]
+  8,18   1       34     0.285494619  3051  I  WS 672154600 + 96 [AioMgr0-N]
+  8,18   1       35     0.285494996  3051  I  WS 672154704 + 240 [AioMgr0-N]
+  8,18   1       36     0.285495331  3051  I  WS 672154944 + 64 [AioMgr0-N]
+  8,18   1       37     0.285496154  3051  U   N [AioMgr0-N] 7
+  8,18   1       38     0.285498684  3051  D  WS 171035232 + 8 [AioMgr0-N]
+  8,18   1       39     0.285508524  3051  D  WS 171069496 + 8 [AioMgr0-N]
+  8,18   0        2     0.286115441     3  C  WS 171035232 + 8 [0]
+  8,18   0        3     0.286135486     3  D  WS 670321512 + 32 [ksoftirqd/0]
+  8,16   1       40     0.286188984  3051  A  WS 670333928 + 64 <- (8,18) 669924288
+  8,18   1       41     0.286189877  3051  Q  WS 670333928 + 64 [AioMgr0-N]
+  8,18   1       42     0.286196499  3051  G  WS 670333928 + 64 [AioMgr0-N]
+  8,18   1       43     0.286197473  3051  P   N [AioMgr0-N]
+  8,16   1       44     0.286210500  3051  A   R 2510904 + 1 <- (8,18) 2101264
+  8,18   1       45     0.286210836  3051  Q   R 2510904 + 1 [AioMgr0-N]
+  8,18   1       46     0.286215108  3051  G   R 2510904 + 1 [AioMgr0-N]
+  8,18   1       47     0.286216830  3051  I  WS 670333928 + 64 [AioMgr0-N]
+  8,18   1       48     0.286217427  3051  I   R 2510904 + 1 [AioMgr0-N]
+  8,18   1       49     0.286218021  3051  U   N [AioMgr0-N] 2
+  8,18   0        4     0.287211279     3  C  WS 171069496 + 8 [0]
+  8,18   0        5     0.287223439     3  D  WS 672154600 + 96 [ksoftirqd/0]
+  8,18   0        6     0.288361443     3  C  WS 670321512 + 32 [0]
+  8,18   0        7     0.288371412     3  D  WS 672154704 + 240 [ksoftirqd/0]
+  8,18   0        8     0.290962993     3  C  WS 672154600 + 96 [0]
+  8,18   0        9     0.290973390     3  D  WS 672154944 + 64 [ksoftirqd/0]
+  8,18   0       10     0.297036855     3  C  WS 672154704 + 240 [0]
+  8,18   0       11     0.297060723     3  D  WS 672162512 + 8 [ksoftirqd/0]
+  8,18   0       12     0.298852117     3  C  WS 672154944 + 64 [0]
+  8,18   0       13     0.298899388     3  D   R 2510904 + 1 [ksoftirqd/0]
+  8,18   0       14     0.299490868     3  C  WS 672162512 + 8 [0]
+  8,18   0       15     0.299529697     3  D  WS 670333928 + 64 [ksoftirqd/0]
+  8,18   0       16     0.315504007     3  C   R 2510904 + 1 [0]
+  8,16   1       50     0.315602875  3051  A  WS 2510904 + 1 <- (8,18) 2101264
+  8,18   1       51     0.315604783  3051  Q  WS 2510904 + 1 [AioMgr0-N]
+  8,18   1       52     0.315620568  3051  G  WS 2510904 + 1 [AioMgr0-N]
+  8,18   1       53     0.315622106  3051  P   N [AioMgr0-N]
+  8,18   1       54     0.315624800  3051  I  WS 2510904 + 1 [AioMgr0-N]
+  8,18   1       55     0.315625586  3051  U   N [AioMgr0-N] 1
+  8,18   1       56     0.315626433  3051  D  WS 2510904 + 1 [AioMgr0-N]
+  8,18   0       17     0.317618167     3  C  WS 670333928 + 64 [0]
+  8,18   0       18     0.318073281     3  C  WS 2510904 + 1 [0]
+  8,16   2        1     0.318716088  3051  A  WS 670333992 + 8 <- (8,18) 669924352
+  8,18   2        2     0.318717171  3051  Q  WS 670333992 + 8 [AioMgr0-N]
+  8,18   2        3     0.318722597  3051  G  WS 670333992 + 8 [AioMgr0-N]
+  8,18   2        4     0.318723305  3051  P   N [AioMgr0-N]
+  8,18   2        5     0.318725129  3051  I  WS 670333992 + 8 [AioMgr0-N]
+  8,18   2        6     0.318726375  3051  U   N [AioMgr0-N] 1
+  8,18   2        7     0.318727206  3051  D  WS 670333992 + 8 [AioMgr0-N]
+  8,18   2        8     0.319195433    15  C  WS 670333992 + 8 [0]
+  8,16   3        1     0.319252729  3051  A   R 2510904 + 1 <- (8,18) 2101264
+  8,18   3        2     0.319254634  3051  Q   R 2510904 + 1 [AioMgr0-N]
+  8,18   3        3     0.319262408  3051  G   R 2510904 + 1 [AioMgr0-N]
+  8,18   3        4     0.319263230  3051  P   N [AioMgr0-N]
+  8,18   3        5     0.319265806  3051  I   R 2510904 + 1 [AioMgr0-N]
+  8,18   3        6     0.319266511  3051  U   N [AioMgr0-N] 1
+  8,18   3        7     0.319267868  3051  D   R 2510904 + 1 [AioMgr0-N]
+  8,18   0       19     0.382372477     3  C   R 2510904 + 1 [0]
+  8,16   3        8     0.382474051  3051  A  WS 2510904 + 1 <- (8,18) 2101264
+  8,18   3        9     0.382475795  3051  Q  WS 2510904 + 1 [AioMgr0-N]
+  8,18   3       10     0.382485695  3051  G  WS 2510904 + 1 [AioMgr0-N]
+  8,18   3       11     0.382487345  3051  P   N [AioMgr0-N]
+  8,18   3       12     0.382491314  3051  I  WS 2510904 + 1 [AioMgr0-N]
+  8,18   3       13     0.382492710  3051  U   N [AioMgr0-N] 1
+  8,18   3       14     0.382494695  3051  D  WS 2510904 + 1 [AioMgr0-N]
+  8,18   0       20     0.382950826     3  C  WS 2510904 + 1 [0]
+  8,16   0       21     5.907322377  2171  A  WS 487478448 + 8 <- (8,18) 487068808
+  8,18   0       22     5.907324649  2171  Q  WS 487478448 + 8 [kjournald]
+  8,18   0       23     5.907364940  2171  G  WS 487478448 + 8 [kjournald]
+  8,18   0       24     5.907366494  2171  P   N [kjournald]
+  8,16   0       25     5.907403935  2171  A  WS 487478456 + 8 <- (8,18) 487068816
+  8,18   0       26     5.907404232  2171  Q  WS 487478456 + 8 [kjournald]
+  8,18   0       27     5.907438644  2171  M  WS 487478456 + 8 [kjournald]
+  8,18   0       28     5.907439877  2171  I  WS 487478448 + 16 [kjournald]
+  8,18   0       29     5.907441393  2171  U   N [kjournald] 1
+  8,18   0       30     5.907444561  2171  D  WS 487478448 + 16 [kjournald]
+  8,18   0       31     5.908437582     3  C  WS 487478448 + 16 [0]
+  8,16   1       57     5.908564142  2171  A FWFS 487478464 + 8 <- (8,18) 487068824
+  8,18   1       58     5.908566347  2171  Q  WS 487478464 + 8 [kjournald]
+  8,18   1       59     5.908612732  2171  G  WS 487478464 + 8 [kjournald]
+  8,18   1       60     5.908615268  2171  I  WS 487478464 + 8 [kjournald]
+  8,18   1       61     5.908618579  2171  D  WS 487478464 + 8 [kjournald]
+  8,18   0       32     5.912851746     3  C  WS 487478464 + 8 [0]
+  8,16   1       62    40.011222313  5195  A   W 417864 + 8 <- (8,18) 8224
+  8,18   1       63    40.011224581  5195  Q   W 417864 + 8 [flush-8:16]
+  8,18   1       64    40.011264572  5195  G   W 417864 + 8 [flush-8:16]
+  8,18   1       65    40.011266279  5195  P   N [flush-8:16]
+  8,18   1       66    40.011270265  5195  I   W 417864 + 8 [flush-8:16]
+  8,18   1       67    40.011271838  5195  U   N [flush-8:16] 1
+  8,18   1       68    40.011274197  5195  D   W 417864 + 8 [flush-8:16]
+  8,18   0       33    40.296733203     3  C   W 417864 + 8 [0]
+CPU0 (host_trace_vb_ext3_ns1):
+ Reads Queued:           0,        0KiB	 Writes Queued:           2,        8KiB
+ Read Dispatches:        1,        0KiB	 Write Dispatches:        7,      260KiB
+ Reads Requeued:         0		 Writes Requeued:         0
+ Reads Completed:        3,        5KiB	 Writes Completed:       13,      277KiB
+ Read Merges:            0,        0KiB	 Write Merges:            1,        4KiB
+ Start Timestamp:     1400289466.167129707 
+ Read depth:             1        	 Write depth:             2
+ IO unplugs:             1        	 Timer unplugs:           0
+CPU1 (host_trace_vb_ext3_ns1):
+ Reads Queued:           2,        4KiB	 Writes Queued:          11,      268KiB
+ Read Dispatches:        1,        4KiB	 Write Dispatches:        5,       16KiB
+ Reads Requeued:         0		 Writes Requeued:         0
+ Reads Completed:        0,        0KiB	 Writes Completed:        0,        0KiB
+ Read Merges:            0,        0KiB	 Write Merges:            0,        0KiB
+ Start Timestamp:     1400289466.167129707 
+ Read depth:             1        	 Write depth:             2
+ IO unplugs:             5        	 Timer unplugs:           0
+CPU2 (host_trace_vb_ext3_ns1):
+ Reads Queued:           0,        0KiB	 Writes Queued:           1,        4KiB
+ Read Dispatches:        0,        0KiB	 Write Dispatches:        1,        4KiB
+ Reads Requeued:         0		 Writes Requeued:         0
+ Reads Completed:        0,        0KiB	 Writes Completed:        1,        4KiB
+ Read Merges:            0,        0KiB	 Write Merges:            0,        0KiB
+ Start Timestamp:     1400289466.167129707 
+ Read depth:             1        	 Write depth:             2
+ IO unplugs:             1        	 Timer unplugs:           0
+CPU3 (host_trace_vb_ext3_ns1):
+ Reads Queued:           1,        0KiB	 Writes Queued:           1,        0KiB
+ Read Dispatches:        1,        0KiB	 Write Dispatches:        1,        0KiB
+ Reads Requeued:         0		 Writes Requeued:         0
+ Reads Completed:        0,        0KiB	 Writes Completed:        0,        0KiB
+ Read Merges:            0,        0KiB	 Write Merges:            0,        0KiB
+ Start Timestamp:     1400289466.167129707 
+ Read depth:             1        	 Write depth:             2
+ IO unplugs:             2        	 Timer unplugs:           0
+
+Total (host_trace_vb_ext3_ns1):
+ Reads Queued:           3,        5KiB	 Writes Queued:          15,      281KiB
+ Read Dispatches:        3,        5KiB	 Write Dispatches:       14,      281KiB
+ Reads Requeued:         0		 Writes Requeued:         0
+ Reads Completed:        3,        5KiB	 Writes Completed:       14,      281KiB
+ Read Merges:            0,        0KiB	 Write Merges:            1,        4KiB
+ Start Timestamp:     1400289466.167129707 
+ IO unplugs:             9        	 Timer unplugs:           0
+
+Throughput (R/W): 0KiB/s / 6KiB/s
+Events (host_trace_vb_ext3_ns1): 123 entries
+Skips: 0 forward (0 -   0.0%)
+Input file results/host_trace_vb_ext3_ns1.blktrace.0 added
+Input file results/host_trace_vb_ext3_ns1.blktrace.1 added
+Input file results/host_trace_vb_ext3_ns1.blktrace.2 added
+Input file results/host_trace_vb_ext3_ns1.blktrace.3 added
